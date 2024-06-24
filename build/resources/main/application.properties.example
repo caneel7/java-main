@@ -1,0 +1,5 @@
+spring.application.name=
+spring.data.mongodb.uri=
+spring.data.mongodb.database=
+jwt.token.secret=
+recaptcha.token.secret=
